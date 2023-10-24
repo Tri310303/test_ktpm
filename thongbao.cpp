@@ -1,6 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-    <startup> 
-        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
-    </startup>
-</configuration>
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "Tri Huynh dang yeu qua troi luon aaaa" << endl;
+	cout << "Tri Huynh dang yeu qua troi luon aaaa123" << endl;
+	system("pause");
+	return 0;
+}
